@@ -1,4 +1,4 @@
-import { Book } from "../../../../../types/book";
+import { Book } from "@/types/book";
 import BookCard from "./BookCard";
 
 export default function BookList({ books }: { books: Book[] }) {

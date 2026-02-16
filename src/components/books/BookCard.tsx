@@ -1,4 +1,4 @@
-import { Book } from "../../../../../types/book";
+import { Book } from "@/types/book";
 
 export default function BookCard({ book }: { book: Book }) {
   return (
